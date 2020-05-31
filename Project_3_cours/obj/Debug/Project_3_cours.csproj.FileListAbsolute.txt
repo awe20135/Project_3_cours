@@ -1,0 +1,15 @@
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\bin\Debug\Project_3_cours.exe.config
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\bin\Debug\Project_3_cours.exe
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\bin\Debug\Project_3_cours.pdb
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.csprojAssemblyReference.cache
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.StartForm.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.Properties.Resources.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.csproj.GenerateResource.cache
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.csproj.CoreCompileInputs.cache
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.exe
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.pdb
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.src.bin.DBQuery.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.src.GUI.ChooseDiff.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.src.GUI.EventForm.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.src.GUI.BattleForm.resources
+C:\Users\awe20\Desktop\Проект 3 курс\Project_3_cours\Project_3_cours\obj\Debug\Project_3_cours.src.GUI.CardElement.resources
